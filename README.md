@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GoStack" src="./public/logo.png" width="120px" />
+  <img alt="GoStack" src="./public/logo2.png" width="120px" />
   <h3 align="center">
     Tutorial React - Jogo da velha
   </h3>

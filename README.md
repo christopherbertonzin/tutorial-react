@@ -1,24 +1,10 @@
-<div 
-    style="
-        display: flex; 
-        background: #282c34; 
-        padding: 20px 20px;
-        border-radius: 8px;
-        align-items: center;
-        justify-content: center;
-    ">
-    <img 
-        src="./public/logo.png" 
-        style="width: 80px;" 
-        >
-    <h2 
-        style="
-            text-align: center; 
-            color: #61dafb; 
-            margin-left: 20px;
-            "> Tutorial React - Jogo da velha
-    </h2>
-</div>
+<h1 align="center">
+  <img alt="GoStack" src="./public/logo.png" width="80px" />
+</h1>
+
+<h3 align="center">
+    Tutorial React - Jogo da velha
+</h3>
 
 
 <p align="center">Este é um tutorial introdutório realizado pela comunidade do React. Tem como objetivo a criação de um jogo da velha para aplicar fundamentos e téncnicas essenciais para iniciar neste framework. </p>

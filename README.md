@@ -34,7 +34,7 @@
 
 ## ⚡️ Onde aprender
 
-- Acesse o site do React e navegue até o menu [tutorial]([React](https://pt-br.reactjs.org/tutorial/tutorial.html))
+- Acesse o site do React e navegue até o menu [tutorial](https://pt-br.reactjs.org/tutorial/tutorial.html)
 
 ## 📝 Licença
 

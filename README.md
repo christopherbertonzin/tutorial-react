@@ -1,10 +1,11 @@
 <h1 align="center">
-  <img alt="GoStack" src="./public/logo.png" width="80px" />
+  <img alt="GoStack" src="./public/logo.png" width="120px" />
+  <h3 align="center">
+    Tutorial React - Jogo da velha
+  </h3>
 </h1>
 
-<h3 align="center">
-    Tutorial React - Jogo da velha
-</h3>
+
 
 
 <p align="center">Este é um tutorial introdutório realizado pela comunidade do React. Tem como objetivo a criação de um jogo da velha para aplicar fundamentos e téncnicas essenciais para iniciar neste framework. </p>
@@ -13,7 +14,6 @@
     <img src="./public/jogoDaVelha.gif" >
 </p>
 
-___
 
 ## 🚀 Tecnologias
 

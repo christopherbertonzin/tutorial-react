@@ -36,8 +36,3 @@
 
 - Acesse o site do React e navegue até o menu [tutorial](https://pt-br.reactjs.org/tutorial/tutorial.html)
 
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
